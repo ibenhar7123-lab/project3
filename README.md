@@ -7,5 +7,10 @@ exercice2
 exercice3
 :<img width="234" height="100" alt="Capture d&#39;écran 2026-09-29 234939" src="https://github.com/user-attachments/assets/b55c1833-9d02-4752-adfc-1d0b4fb46513" />
 
+exercice4
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/c54ca3db-c230-4b0d-ac99-54feb3e69232" />
+
 exercice5
 :<img width="316" height="239" alt="Capture d&#39;écran 2026-09-30 001018" src="https://github.com/user-attachments/assets/bb80cdfc-00d3-4612-ad89-542a09fd0afd" />
+
+
